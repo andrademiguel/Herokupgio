@@ -1,0 +1,26 @@
+{
+  "name": "herokupgio",
+  "version": "1.0.0",
+  "description": "miguel's homework assignemnt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrademiguel/Herokupgio.git"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrademiguel/Herokupgio/issues"
+  },
+  "homepage": "https://github.com/andrademiguel/Herokupgio#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
